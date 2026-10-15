@@ -53,14 +53,9 @@ a visualization. **Merged PRs get exclusive 169pi swag. 🎁**
 <!-- ────────────────────────────────────────────────────────────────── -->
 
 <!-- ENTRIES:START -->
+<img width="1280" height="1170" alt="WhatsApp Image 2026-10-15 at 8 21 27 PM" src="https://github.com/user-attachments/assets/1410dd1c-1eb6-470a-a8d6-f9a613705259" />
+Contributed by vishruth-08
 
-### @169pi — the first brick 🧱
-
-This wall is yours to build on. Fork the repo, add your entry right here, and
-open a PR — see **[CONTRIBUTING.md](../CONTRIBUTING.md)** for the 5-step guide.
-
-*What it represents:* the open, collaborative spirit behind everything at 169pi.
-**Contributed by [@169pi](https://github.com/169Pi)**
 
 <!-- ENTRIES:END -->
 
